@@ -32,20 +32,9 @@ Head over to [Discussions](https://github.com/SchoutenEnZn/community-forum/discu
 - ✅ Explain why it works
 - ✅ Tag relevant technologies
 
-## 🏷️ Common Labels
-
-- `helloid` - HelloID related
-- `powershell` - PowerShell scripts
-- `azure-ad` - Azure Active Directory
-- `connector` - Connector development
-- `automation` - Automation workflows
-- `scripting` - General scripting
-- `best-practice` - Proven patterns
-
 ## 📚 Resources
 
-- [HelloID Docs](https://docs.helloid.com)
-- [Forum.HelloID.com Archive](https://forum.helloid.com) (legacy)
+- [SchoutenEnZn Docs](https://docs.SchoutenEnZn.nl)
 
 ## 🤝 Community Guidelines
 
@@ -72,7 +61,7 @@ Head over to [Discussions](https://github.com/SchoutenEnZn/community-forum/discu
 
 ## 📞 Need Direct Support?
 
-For official HelloID support: [Support van wereldklasse - Tools4ever](https://www.tools4ever.nl/support/)
+For official SchoutenEnZn support: [Support SchoutenEnZn](https://www.SchoutenEnZn.nl/support/)
 
 ---
 
